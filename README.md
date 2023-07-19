@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @clementfoong
+- 👋 Hi, I’m clement
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science in UTHM
-- 📫 How to reach me : clementfoong5765@gmail.com
+- 🌱 I’m currently learning computer science 
 
 <!---
 clementfoong/clementfoong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
